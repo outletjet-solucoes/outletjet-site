@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://outletjet-solucoes.github.io/outletjet-site/sitemap.xml
